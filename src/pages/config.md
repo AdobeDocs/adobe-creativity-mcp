@@ -1,5 +1,5 @@
 - pathPrefix:
-    - /dev-docs-template/
+    - /adobe-for-creativity/
 
 - pages:
     - [Analytics](index.md)
