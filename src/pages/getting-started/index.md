@@ -230,7 +230,7 @@ Firefox is not officially supported at this time.
 * **Prompt languages:** You can prompt Claude in any language Claude supports — Adobe tools will execute regardless of the prompt language, though text generation and font suggestions work best in English at this time.
 * **Regions:** Available in the same regions as Claude and Adobe Creative Cloud.
 
-Files processed through the connector follow the data handling terms outlined in the FAQ.
+Files processed through the connector follow the data handling terms outlined in the [FAQ](https://file+.vscode-resource.vscode-cdn.net/Users/sarahxu/Downloads/files%202/04-faq-and-support.md#privacy-and-data).
 
 ## What's next?
 
