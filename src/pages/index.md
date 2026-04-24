@@ -2,7 +2,9 @@
 title: Adobe for Creativity available in Claude 
 description: This is the overview page of creativity in Claude
 ---
-<Superhero slots="icon, heading, text, buttons" />
+<Superhero slots="image, icon, heading, text, buttons" variant="halfWidth" />
+
+![Hero image](images/cc-hero.png)
 
 :adobe:
 

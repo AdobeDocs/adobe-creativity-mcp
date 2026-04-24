@@ -2,4 +2,4 @@
     - /adobe-for-creativity/
 
 - pages:
-    - [TODO](index.md)
+    - [Documentation](index.md)
