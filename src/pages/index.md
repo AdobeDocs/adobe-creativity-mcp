@@ -4,90 +4,93 @@ description: This is the overview page of creativity in Claude
 ---
 <Superhero slots="image, icon, heading, text, buttons" variant="halfWidth" />
 
-![Hero image](images/cc-hero.png)
+![Hero image](./assets/cc.png)
 
 :adobe:
 
 # Adobe for creativity available in Claude
 
-Adobe’s professional creative capabilities, directly inside Anthropic’s Claude. Access tools from Photoshop, Lightroom, Illustrator, Firefly, Premiere, Express, InDesign, and Stock, all in one conversation. Create, edit, and design with natural language in Claude. No app switching, no interruptions.
+Adobe's professional creative capabilities, directly inside Anthropic's Claude. Create, edit, and design with natural language across Photoshop, Lightroom, Illustrator, Firefly, Premiere, Express, InDesign, and Adobe Stock — all in one conversation. No app switching, no interruptions.
 
-* [Try Now](https://example.com/getting-started)
+* [Try it in Claude](https://example.com/getting-started)
 
-## Adobe for creativity available in Claude
+## What is "Adobe for creativity"?
 
-Adobe’s professional creative capabilities, directly inside Anthropic’s Claude. Access tools from Photoshop, Lightroom, Illustrator, Firefly, Premiere, Express, InDesign, and Stock, all in one conversation. Create, edit, and design with natural language in Claude. No app switching, no interruptions.
+It's a single Claude connector that bundles creative tools from across the Adobe ecosystem. Ask Claude in natural language to retouch a photo, cut a video, search Adobe Stock, generate with Firefly, or assemble an InDesign layout — and Claude does the work using real Adobe APIs.
 
-* [Try Now](https://example.com/getting-started)
+Because it's built on the Model Context Protocol (MCP), it works anywhere Claude runs: **Claude chat** (web and mobile), **Claude Desktop** and **Cowork.**
 
-* [Static from Studio](https://example.com/getting-started)
+### Connector vs. Skills — what's the difference?
 
-## How to Get Started
+You'll set up two things to get the full experience:
 
-Learn how to use Adobe for creativity connector to edit multiple photos, create assets, and refine video for polished results.
+* **The connector** is the bridge between Claude and Adobe's services. Install it once and Claude can call Adobe tools.
+* **Skills** are optional add-ons that teach Claude how to use those tools for specific workflows — like a "portrait retouching" skill that knows the right sequence of adjustments, or a "social resize" skill that knows the dimensions for every major platform.
 
-1. Open Claude and select Customize from the sidebar
-2. Tap the + icon to open the connector directory.
-3. Search for Adobe for creativity and select it.
-4. Click Install and confirm the connection.
-5. Once installed, follow the steps to add Skills
+The connector alone gets you a lot. Skills make Claude noticeably better at specific creative tasks.
 
-TODO: PLEASE ADD
+## Who can use it, and what do they get?
 
-## Start a new chat
+Access scales with your Claude plan and your Adobe sign-in status.
 
-Then sign in with your Adobe account to unlock higher usage limits, more tools, and work that saves across sessions.
+|  | Guest (no Adobe sign-in) | Free Adobe account | Paid Adobe account (Creative Cloud, Firefly, etc.) |
+| --- | --- | --- | --- |
+| **Tools available** | ~40 standard tools | Expanded tool set (placeholder — confirm exact count) | All available tools |
+| **Asset storage** | Session only | Saved to your Creative Cloud Files | Saved to your Creative Cloud Files |
+| **Usage limits** | Lower | Higher | Highest |
 
-ADD ACCESS DETAILS
+**How to sign in:** Start a chat with the connector enabled and Claude will prompt you. You can also sign in anytime from Customize → Connectors → Adobe for creativity → Sign in.
 
-* We need to clearly state how guest users will get access to a select set of ~40 standard tools and how a free user can get more but not all, and a signed in paid user unlocks all that is available
+## Where you can use it
 
-[Static from Studio OR Figma file screenshot]
+The Adobe for creativity connector is available in three places:
 
-## Use Cases & Prompts to Get You Started
+### 🗨️ Claude chat (web & mobile)
 
-Use cases and prompts to get you started across editing and transforming images and video, designing and animating assets, and searching, organizing, and summarizing content.
+Best for: quick conversational edits, one-off generations, fast iteration on a single asset.
 
-### Polished headshots
+### 🖥️ Cowork (desktop)
 
-"Use portrait refinement to edit these headshots.”
+Best for: multi-step creative projects, working with local files, combining Adobe with your other tools (Figma, Drive, Slack), and installing plugins that bundle skills together.
 
-### On-brand content
+### 💻 Claude Desktop
 
-"Make an Instagram story for my boutique sale from the design library, then change background color and animate it."
+Works the same as Claude chat, with the benefit of local file access.
 
-### Resize videos
+<InlineAlert slots="text" variant="info" />
 
-"Resize this video for YouTube shorts."
+Note: New connectors and skills can't be browsed or installed from the iOS or Android apps. Set up on web or desktop first, then use the mobile apps to run the workflows you've installed.
 
-## Technical Requirements
+→ [Full setup instructions for every surface](link to the getting started tab)
 
-Learn more about the minimum technical specifications required when using Adobe for creativity in Claude.
+## What you can do with it
 
-### Platform
+The connector ships with six skills covering the most common creative workflows. Here are example prompts to try:
 
-#### Browser
+### Edit and retouch photos
 
-**Browsers**
+* "Batch edit these photos — even out the exposure, warm up the color, and crop to 4:5."
+* "Retouch these three headshots — soften skin without losing texture, brighten eyes, balance tones across all three."
 
-- macOS: Google Chrome version 143 and later; Apple Safari version 26 and later
-- Windows: Google Chrome version 143 and later; Microsoft Edge version 143 and later
+### Design and generate
 
-**Operating system**
+* "Make an Instagram story for my bakery's weekend sale using a template from my brand library."
+* "Create four on-brand variations of this social post — different color palettes, same layout."
 
-- macOS: 18.2 and later
-- Windows: Windows 10 and later
-- Processor: 64-bit processor with 4 or more cores
-- Internet: A stable internet connection is required.
+### Video
 
-### Chromebook
+* "Resize this video for YouTube Shorts, Reels, and TikTok."
+* "Cut this 2-minute interview into a 30-second highlight reel with fade transitions."
 
-**Browser:** Google Chrome version 143 and later  
-**RAM:** 8 GB or more  
-**Processor:** Intel Core i3 or better  
+→ [Full prompt library with walkthroughs](link to the prompts and workflows tab)
 
-A stable internet connection is required.
+## Before you start
 
-## Availability and language support
+* A Claude account (Free, Pro, Max, Team, or Enterprise). Some features require a paid Claude plan — see the requirements section on the [getting started page](https://file+.vscode-resource.vscode-cdn.net/Users/sarahxu/Downloads/files%202/02-getting-started.md#technical-requirements).
+* An Adobe account is optional but strongly recommended for full functionality.
+* Code execution and file creation must be enabled in your Claude settings for skills to work. On Free, Pro, and Max plans this is under Settings → Capabilities. On Team and Enterprise, an owner must enable both Code execution and file creation and Skills at the org level.
 
-LIST LIMITATIONS i.e. not available on mobile
+
+## Get help
+
+* Stuck on setup? Have a question? Or want to request a feature? See FAQ & support (link to FAQ tab)
