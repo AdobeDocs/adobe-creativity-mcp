@@ -9,9 +9,62 @@ This page covers everything you need to set up and start using Adobe for creativ
 
 **Jump to:**
 
-* [Set up in Claude chat (web and Claude Desktop)](https://file+.vscode-resource.vscode-cdn.net/Users/sarahxu/Downloads/files%202/02-getting-started.md#set-up-in-claude-chat)
-* [Set up in Cowork (desktop app, paid plans)](https://file+.vscode-resource.vscode-cdn.net/Users/sarahxu/Downloads/files%202/02-getting-started.md#set-up-in-cowork)
-* [Technical requirements](https://file+.vscode-resource.vscode-cdn.net/Users/sarahxu/Downloads/files%202/02-getting-started.md#technical-requirements)
+* [What you need to get started](#what-you-need-to-get-started)
+* [Connector vs. Skills](#connector-vs-skills)
+* [Set up in Claude chat (web and Claude Desktop)](#set-up-in-claude-chat)
+* [Set up in Cowork (desktop app, paid plans)](#set-up-in-cowork)
+* [Technical requirements](#technical-requirements)
+
+## What you need to get started
+
+* A Claude account (Free, Pro, Max, Team, or Enterprise). Some features require a paid plan — see [Technical requirements](#technical-requirements) for details.
+* An Adobe account for full functionality, higher limits, and saved work across sessions.
+* Code execution and file creation enabled in Claude (required for skills):
+  * Free, Pro, Max: Settings → Capabilities.
+  * Team, Enterprise: An admin must enable Code execution, file creation, and Skills at the organization level.
+
+## Connector vs. Skills
+
+What's the difference and how to set them up
+
+To get the full experience, you'll set up two things:
+
+### Connector
+
+The connector links Claude to Adobe's creative tools. Set it up once, and Claude can access and use those tools within your conversations.
+
+[Use this link](https://claude.ai/directory/connectors/adobe-creativity) to connect directly or follow these instructions:
+
+* Open **Claude** at claude.ai (or Claude Desktop) and sign in.
+* In the left sidebar, click **Customize**.
+* Select the **Connectors** tab, then click the + button.
+* Click **Browse connectors**.
+* Search for **Adobe for creativity** and click it.
+* Click **Install** and confirm the connection.
+* Sign in with your Adobe account to unlock higher usage limits, more tools, and work that saves across sessions. (You can skip this step and continue as a guest, but with reduced capabilities — see [Access details](../index.md#access-details).)
+
+### Skills (optional)
+
+Skills guide how those tools are used for specific tasks. Think of them as ready-made workflows, like portrait retouching or designing from templates, with the right steps already built in.
+
+Skills are available on GitHub. Download the skill files, then add them to Claude:
+
+* Go to the Adobe skills [repository on GitHub](https://github.com/adobe/skills/tree/main/plugins/creative-cloud/adobe-for-creativity/skills).
+* Download the skill file(s) you want to use.
+* Open Claude and go to **Customize**.
+* Select **Skills**.
+* Click **Add skill** and upload the file.
+* Confirm to install.
+
+Once added, the connector and skills are available to use in your chats and will guide Claude through your workflows.
+
+### How they work together
+
+The connector gives you access and unlocks powerful capabilities on its own. Skills take it further by using the right tools to deliver results tailored to your workflow, making Claude noticeably better at specific creative tasks.
+
+*Note: Connectors and skills can't be browsed or installed from the iOS or Android apps. Set up on the web or desktop first, then use the mobile apps to run the workflows you've installed.*
+
+![Connector setup](../assets/connector.png)
 
 ## Set up in Claude chat
 
@@ -27,7 +80,7 @@ Time to set up: ~3 minutes.
 4. Click **Browse connectors**.
 5. Search for **Adobe for creativity** and click it.
 6. Click **Install** and confirm the connection.
-7. Sign in with your Adobe account to unlock higher usage limits, more tools, and work that saves across sessions. (You can skip this step and continue as a guest, but with reduced capabilities — see [access tiers](https://file+.vscode-resource.vscode-cdn.net/Users/sarahxu/Downloads/files%202/01-overview.md#who-can-use-it-and-what-do-they-get).)
+7. Sign in with your Adobe account to unlock higher usage limits, more tools, and work that saves across sessions. (You can skip this step and continue as a guest, but with reduced capabilities — see [Access details](../index.md#access-details).)
 
 You'll see a confirmation when the connector is active. It's now available in every new chat.
 
@@ -183,7 +236,7 @@ System and platform requirements for using Adobe for creativity in Claude.
 
 ### Adobe account requirements
 
-An Adobe account is optional but recommended. See [access tiers](https://file+.vscode-resource.vscode-cdn.net/Users/sarahxu/Downloads/files%202/01-overview.md#who-can-use-it-and-what-do-they-get) for what each level unlocks.
+An Adobe account is optional but recommended. See [Access details](../index.md#access-details) for what each level unlocks.
 
 * **Guest:** No Adobe sign-in. Limited tool set, no persistent storage.
 * **Free Adobe ID:** Access to more tools; assets saved to your free Adobe storage.
@@ -230,9 +283,9 @@ Firefox is not officially supported at this time.
 * **Prompt languages:** You can prompt Claude in any language Claude supports — Adobe tools will execute regardless of the prompt language, though text generation and font suggestions work best in English at this time.
 * **Regions:** Available in the same regions as Claude and Adobe Creative Cloud.
 
-Files processed through the connector follow the data handling terms outlined in the [FAQ](https://file+.vscode-resource.vscode-cdn.net/Users/sarahxu/Downloads/files%202/04-faq-and-support.md#privacy-and-data).
+Files processed through the connector follow the data handling terms outlined in the [FAQ](../support/index.md#privacy-and-data).
 
 ## What's next?
 
-* Explore the [prompt library](https://file+.vscode-resource.vscode-cdn.net/Users/sarahxu/Downloads/files%202/03-prompts-and-workflows.md) for workflow-specific examples.
-* Hit a problem? See [FAQ & support](https://file+.vscode-resource.vscode-cdn.net/Users/sarahxu/Downloads/files%202/04-faq-and-support.md)
+* Explore the [prompt library](../prompts-and-workflows/index.md) for workflow-specific examples.
+* Hit a problem? See [FAQ & support](../support/index.md).
