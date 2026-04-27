@@ -16,7 +16,7 @@ Adobe for creativity brings capabilities across the creative suite into a unifie
 
 <Embed slots="video" />
 
-./assets/3P_PR_RETOUCHPORTRAITS_16x9_042426.png
+./assets/social variation.mp4
 
 ## What you can do with Adobe for creativity
 
