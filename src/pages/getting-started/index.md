@@ -26,8 +26,8 @@ Time to set up: ~3 minutes.
 3. Select the **Connectors** tab, then click the + button.
 4. Click **Browse connectors**.
 5. Search for **Adobe for creativity** and click it.
-6. Review the permissions, then click **Connect**.
-7. Follow the prompts to sign in with your Adobe account. (You can skip this step and continue as a guest, but with reduced capabilities — see [access tiers](https://file+.vscode-resource.vscode-cdn.net/Users/sarahxu/Downloads/files%202/01-overview.md#who-can-use-it-and-what-do-they-get).)
+6. Click **Install** and confirm the connection.
+7. Sign in with your Adobe account to unlock higher usage limits, more tools, and work that saves across sessions. (You can skip this step and continue as a guest, but with reduced capabilities — see [access tiers](https://file+.vscode-resource.vscode-cdn.net/Users/sarahxu/Downloads/files%202/01-overview.md#who-can-use-it-and-what-do-they-get).)
 
 You'll see a confirmation when the connector is active. It's now available in every new chat.
 
@@ -57,7 +57,7 @@ Six skills ship alongside the connector, each built around a common creative wor
 | Skill | What it does |
 | --- | --- |
 | `adobe-batch-edit-photos` | Apply consistent edits — exposure, color, straightening, cropping — across a batch of photos in one pass. |
-| `adobe-create-social-variations` | Generate multiple on-brand variations of a social post from a single source asset. |
+| `adobe-create-social-variations` | Design multiple on-brand variations of a social post from a single source asset. |
 | `adobe-design-from-template` | Build new designs from a template, auto-filling your brand colors, fonts, and content. |
 | `adobe-edit-quick-cut` | Trim, reorder, and quick-cut video into short highlight or teaser clips. |
 | `adobe-resize-photos-and-videos` | Reformat photos and videos for specific platforms and aspect ratios with smart cropping. |

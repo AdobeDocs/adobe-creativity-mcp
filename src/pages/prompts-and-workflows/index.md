@@ -28,7 +28,7 @@ Apply consistent edits across a set of photos — exposure, color, straightening
 
 **Skill:** `adobe-retouch-portraits`
 
-Clean up portraits while keeping them looking natural — skin, eyes, color balance.
+Drop in headshots and describe the look you want — balanced lighting, background blur, auto-straighten, and a portrait crop. Adobe for creativity applies the best Adobe tools for the task intelligently and in the right order, and with your input along the way, so you get polished, production-ready images.
 
 `"Retouch these five headshots. Even skin tones, soften without erasing texture, brighten the eyes slightly, and match the color temperature across all of them."`
 
@@ -43,7 +43,7 @@ Clean up portraits while keeping them looking natural — skin, eyes, color bala
 
 **Skill:** `adobe-resize-photos-and-videos`
 
-Reformat assets for specific platforms and aspect ratios with smart cropping that keeps the subject in frame.
+Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Reels, or any platform. Adobe tools handle cropping and resizing to the right dimensions, delivering a video that's ready to share.
 
 `"Resize this photo for Instagram (1:1), Instagram story (9:16), and LinkedIn feed (1.91:1). Keep the subject centered in each crop."`
 
@@ -67,11 +67,11 @@ Trim, reorder, and quick-cut video into short highlight or teaser clips.
 * "Make a 15-second teaser version for Reels, with captions."
 * "Give me a 45-second and a 90-second cut of the same content."
 
-## 🎨 Create social variations
+## 🎨 Design social variations
 
 **Skill:** `adobe-create-social-variations`
 
-Generate multiple on-brand versions of a social post from a single source asset — different colors, layouts, or copy while keeping the brand feel.
+Describe your campaign and choose from Adobe Express design examples surfaced right in the conversation. Update text and colors and then animate. With just a few short prompts, you get a finished, publish-ready asset.
 
 `"Create four variations of this Instagram post. Keep the brand feel consistent but vary the background treatment and color palette."`
 
@@ -79,7 +79,7 @@ Generate multiple on-brand versions of a social post from a single source asset 
 
 **Variations:**
 
-* "Generate variations for a full weekly posting schedule — seven versions, each slightly different."
+* "Build variations for a full weekly posting schedule — seven versions, each slightly different."
 * "Give me the same post with three different headlines so I can A/B test."
 
 ## 🖼️ Design from a template
