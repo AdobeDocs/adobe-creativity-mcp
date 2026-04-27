@@ -54,6 +54,17 @@ Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Re
 | **Quick Cut your videos** | Turn longer videos into short, engaging clips — ideal for highlights, teasers, and social content.\<br/\>\<br/\>Prompt example: “Create a 30-second highlight reel from this video.” |
 | **Create social variations** | Turn one idea or asset into multiple social-ready versions with the right formats, copy, and visual treatments for each channel.\<br/\>\<br/\>Prompt example: “Create social variations of this post for Instagram, LinkedIn, and TikTok.” |
 | **Batch edit your photos** | Apply consistent adjustments across a set of images so they look polished and cohesive — ideal for mixed lighting, travel photos, or creating a unified style.\<br/\>\<br/\>Prompt example: “Batch edit these photos — make them warm, consistent, and cinematic.” |
+<<<<<<< HEAD
+=======
+
+## What you need to get started
+
+* A Claude account (Free, Pro, Max, Team, or Enterprise). Some features require a paid plan — see the [Getting started](./getting-started/index.md) page for details.
+* An Adobe account for full functionality, higher limits, and saved work across sessions.
+* Code execution and file creation enabled in Claude (required for skills):
+  * Free, Pro, Max: Settings → Capabilities.
+  * Team, Enterprise: An admin must enable Code execution, file creation, and Skills at the organization level.
+>>>>>>> 15f09a66c1d2c2c970491e0ea4225c8b209e6b58
 
 ![Hero image](./assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
 
