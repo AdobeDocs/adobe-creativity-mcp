@@ -63,6 +63,8 @@ Drop in headshots and describe the look you want — balanced lighting, backgrou
 
 [button 1](https://example.com)
 
+<Cards slots="image, heading, text, links" width="33%" />
+
 ![Feature 2](./assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
 
 ### Design from template 2
@@ -70,6 +72,8 @@ Drop in headshots and describe the look you want — balanced lighting, backgrou
 Describe your campaign and choose from design examples surfaced right in the conversation. Update text and colors and then animate.
 
 [button 2](https://example.com)
+
+<Cards slots="image, heading, text, links" width="33%" />
 
 ![Feature 3](./assets/3P_PR_RESIZEPHOTOSVIDEOS_16x9_042426.png)
 
