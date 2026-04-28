@@ -16,7 +16,7 @@ Adobe for creativity brings capabilities across the creative suite into a unifie
 
 <Embed slots="video" />
 
-https://www.youtube.com/watch?v=72DV8UaWdbk
+./assets/social variation.mp4
 
 ## Connector vs. Skills — what’s the difference and how to set them up
 
