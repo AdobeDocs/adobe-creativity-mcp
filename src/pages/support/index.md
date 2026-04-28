@@ -9,7 +9,7 @@ Find answers to common questions, fix common issues, and learn how to get help w
 
 ## Frequently asked questions
 
-### Getting started
+### About Adobe for creativity and Getting Started
 
 <AccordionItem slots="heading, text"/>
 
@@ -22,12 +22,6 @@ No, many Adobe tools are available without signing in. More tools are available 
 #### What can I do with the Adobe for creativity connector?  
 
 Access 50+ tools from across Adobe Creative Cloud suite in one conversation. Use skills for complex, multi-step workflows. Edit and retouch images, design from templates, resize photos and videos, and more  
-
-<AccordionItem slots="heading, text"/>
-
-#### Is Adobe for creativity connector powered by Adobe’s creative agent? 
-
-Yes, it is powered by Adobe's creative agent, that brings tools across Adobe Creative Cloud, informed by decades of understanding of creative workflows.
 
 <AccordionItem slots="heading, text"/>
 
@@ -47,7 +41,7 @@ Not for the connector itself — any Claude plan works. A paid Claude plan (Pro,
 
 ### Do I need to install the skills separately?
 
-In Claude chat and Claude Desktop, yes — install the connector first, then browse the skills directory for Adobe-tagged skills. In Cowork, installing the Adobe for creativity plugin handles both in one step.
+If you don't have Claude paid subscription, and would like to use the skills. You can manually install the skills. In Cowork, installing the Adobe for creativity plugin handles both in one step.
 
 <AccordionItem slots="heading, text"/>
 
@@ -55,65 +49,13 @@ In Claude chat and Claude Desktop, yes — install the connector first, then bro
 
 You can run workflows you've already set up, but you can't install new connectors, skills, or plugins from the iOS or Android apps. Set up on web or desktop first.
 
-## Pricing and limits
-
-<AccordionItem slots="heading, text"/>
-
-### How much does this cost?
-
-The Adobe for creativity connector is [placeholder: free / included with X / priced at Y]. Your usage may be limited by:\<br /\>\<br /\> - Your Claude plan's message and tool-call limits\<br /\> - Your Adobe plan's generative credits (for Firefly) and Stock licensing allowance
-
-<AccordionItem slots="heading, text"/>
-
-### Does using Firefly here consume my Firefly generative credits?
-
-If you're signed in to a paid Adobe account, generations count against your plan's credits. [Confirm exact behavior with Adobe.]
-
-<AccordionItem slots="heading, text"/>
-
-### Does licensing a Stock asset here charge my Stock subscription?
-
-Yes — licensing flows through your own Adobe Stock subscription. You must be signed in to a paid Stock plan for full licensing. Guest and free users can preview but not license.
-
-<AccordionItem slots="heading, text"/>
-
-### Are there rate limits?
-
-Claude has per-plan usage limits. The Adobe APIs behind the connector may also have their own rate limits on high-volume operations. If you hit one, Claude will let you know and you can retry after a short wait.
-
-## Privacy and data
-
-<AccordionItem slots="heading, text"/>
-
-### Are my uploads used to train AI models?
-
-[Placeholder — this is the most important question to answer clearly and correctly. Work with Adobe and Anthropic privacy teams to write this. Cover: Anthropic's training policy, Adobe's training policy for files processed through Firefly, and anything different about Stock searches.]
-
-<AccordionItem slots="heading, text"/>
-
-### Where are my files stored?
-
-**Guest users:** Files exist only for the current session and are not persisted.\<br /\>\<br /\> **Signed-in users:** Assets are saved to your Adobe Creative Cloud Files (or the relevant Adobe storage for the tool used). Claude does not maintain a separate copy.\<br /\>\<br /\> **Chat transcripts:** Stored by Claude per your account settings.
-
-<AccordionItem slots="heading, text"/>
-
-### Who can see my work?
-
-Only you, unless you explicitly share it. Connector permissions follow your Adobe account permissions.
-
-<AccordionItem slots="heading, text"/>
-
-### Can I delete my data?
-
-Yes. Remove files from Creative Cloud through Adobe, and clear Claude chats from Claude. [Link to Adobe's data deletion and Anthropic's data deletion docs.]
-
 ## Functionality
 
 <AccordionItem slots="heading, text"/>
 
-### What Adobe apps does this cover?
+### What Adobe tools and capabilities does Adobe for creativity in Claude provide?
 
-Photoshop, Lightroom, Illustrator, Firefly, Premiere, Express, InDesign, and Adobe Stock. Not every feature of every app is exposed — see known limitations.
+Access 50+ tools across Photoshop, Lightroom, Illustrator, Firefly, Premiere, Express, InDesign, and Adobe Stock — all through natural language, without switching apps. 
 
 <AccordionItem slots="heading, text"/>
 
@@ -164,6 +106,26 @@ Yes. Skills are file-based (a SKILL.md plus any supporting files, zipped togethe
 ### Can I share skills with my team?
 
 On Team and Enterprise plans, yes. Individual skills can be shared with colleagues, and owners can provision skills org-wide. In Cowork, entire plugins can be distributed through organizational marketplaces.
+
+
+
+### Learn More about Adobe creative agents
+
+<AccordionItem slots="heading, text"/>
+
+#### Is Adobe for creativity connector powered by Adobe’s creative agent? 
+
+Yes, it is powered by Adobe's creative agent, that brings tools across Adobe Creative Cloud, informed by decades of understanding of creative workflows.
+
+<AccordionItem slots="heading, text"/>
+
+#### It looks like many of the same tools available in the Firefly AI Assistant are also accessible through this connector in Claude. What’s the advantage of using the Firefly AI Assistant instead of relying on this connector in Claude?
+
+Both FF AI Assistant and Adobe for creativity bring together tools from across the Adobe creative suite to execute creative workflows.
+The FF AI Assistant enables a richer experience with greater visibility and control into how assets evolve at every step of the workflow. 
+FF AIA includes a wider variety of creative tools. FF AIA offers generative tools such as text to image and Gen Fill as well as a wide choice of image and video generation models from across the industry. And easy access to assets in the Creative Cloud, smoother transitions to Adobe apps, and saved creative preferences 
+
+
 
 ## Troubleshooting
 
