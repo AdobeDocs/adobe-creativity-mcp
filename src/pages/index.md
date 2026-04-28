@@ -1,96 +1,63 @@
 ---
-title: Overview - Analytics
-description: This is the overview page of Analytics
-contributors:
-  - https://github.com/icaraps 
+title: Adobe for Creativity available in Claude 
+description: This is the overview page of creativity in Claude
 ---
 
-<Superhero slots="heading, text"/>
+<Superhero slots="fullWidthBackground, image, heading, text, buttons" variant="halfWidth" textColor="white" overGradient />
 
-# Analytics API
+![Gradient background](./assets/vertical-gradient.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. 
+![Platform illustration](./assets/sizzlegifv2.gif)
 
-<Resources slots="heading, links"/>
+# Adobe for creativity available in Claude
 
-#### Resources
+Adobe for creativity brings capabilities across the creative cloud into a unified, creative connector. Access 50+ tools across Photoshop, Lightroom, Illustrator, Firefly, Premiere, Express, InDesign, and Adobe Stock — all through natural language, without switching apps. Describe what you want to achieve, from editing photos and vectors to designing assets and formatting video. Sign in with your Adobe account for higher usage limits, more tools, and cross-session continuity.
 
-* [Quickstart Guide](https://developer.adobe.com)
-* [Analytics Github Repo](https://github.com/AdobeDocs/dev-site)
+* [Try it in Claude](http://www.adobe.com/go/adobe-for-creativity-claude)
+* [Get Started](./getting-started/index.md)
 
-## Overview
+## Examples of What You Can Do
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. Nam blandit vitae ante et auctor. Donec placerat egestas posuere. Aliquam erat volutpat. In condimentum massa eu pharetra porta. Nunc tempus massa sit amet nisl posuere sagittis. Mauris sit amet rhoncus neque. Phasellus ut vulputate est, vel auctor metus.
+<Columns slots="image, heading, text" repeat="3" isReversed="true" />
 
-Donec tincidunt turpis in congue vulputate. Suspendisse potenti. Phasellus feugiat eros sem, tristique sollicitudin lacus consectetur id. Cras tortor orci, venenatis ac vulputate sit amet, auctor sed ex. Ut vel convallis felis. Etiam luctus, diam sed venenatis tincidunt, ipsum turpis volutpat eros, nec interdum arcu mi molestie dolor. Donec id mauris sed odio mollis viverra sed lobortis quam. Aliquam mi metus, ultricies sagittis hendrerit eget, volutpat vel dui. Proin id urna hendrerit, scelerisque arcu sit amet, egestas neque. Sed fringilla odio tincidunt sapien malesuada facilisis.
+![Feature 1](./assets/3P_PR_RETOUCHPORTRAITS_16x9_042426.png)
 
-## Discover
+### Retouch portraits
 
-<DiscoverBlock width="100%" slots="heading, link, text"/>
+Drop in headshots and describe the look you want — balanced lighting, background blur, auto-straighten, and a portrait crop.
 
-### Get Started
+![Feature 2](./assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
 
-[Quickstart Guide](guides/index.md)
+### Design from template
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. Nam blandit vitae ante et auctor. Donec placerat egestas posuere. Aliquam erat volutpat. In condimentum massa eu pharetra porta. Nunc tempus massa sit amet nisl posuere sagittis. Mauris sit amet rhoncus neque. Phasellus ut vulputate est, vel auctor metus.
+Describe your campaign and choose from design examples surfaced right in the conversation. Update text and colors and then animate.
 
-Donec tincidunt turpis in congue vulputate. Suspendisse potenti. Phasellus feugiat eros sem, tristique sollicitudin lacus consectetur id. Cras tortor orci, venenatis ac vulputate sit amet, auctor sed ex. Ut vel convallis felis. Etiam luctus, diam sed venenatis tincidunt, ipsum turpis volutpat eros, nec interdum arcu mi molestie dolor. Donec id mauris sed odio mollis viverra sed lobortis quam. Aliquam mi metus, ultricies sagittis hendrerit eget, volutpat vel dui. Proin id urna hendrerit, scelerisque arcu sit amet, egestas neque. Sed fringilla odio tincidunt sapien malesuada facilisis.
+![Feature 3](./assets/3P_PR_RESIZEPHOTOSVIDEOS_16x9_042426.png)
 
+### Resize videos for any platform
 
-<DiscoverBlock slots="heading, link, text"/>
+Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Reels, or any platform.
 
-### Guides
+→ [Click here to see more use cases and prompt ideas](./prompts-and-workflows/index.md)
 
-[Calculated Metrics API](guides/dummy_metrics_api/index.md)
+## Available across Claude
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. Nam blandit vitae ante et auctor. Donec placerat egestas posuere. Aliquam erat volutpat. In condimentum massa eu pharetra porta. Nunc tempus massa sit amet nisl posuere sagittis. Mauris sit amet rhoncus neque. Phasellus ut vulputate est, vel auctor metus.
+**You don’t need an Adobe account to start.** Guest users can use free tools included in this MCP right away (about ~40 standard tools), directly in chat. Sign in with a free or paid Adobe account when you want more tools, Creative Cloud storage for your assets, and higher usage limits, and continuity across sessions.
 
-Donec tincidunt turpis in congue vulputate. Suspendisse potenti. Phasellus feugiat eros sem, tristique sollicitudin lacus consectetur id. Cras tortor orci, venenatis ac vulputate sit amet, auctor sed ex. Ut vel convallis felis. Etiam luctus, diam sed venenatis tincidunt, ipsum turpis volutpat eros, nec interdum arcu mi molestie dolor. Donec id mauris sed odio mollis viverra sed lobortis quam. Aliquam mi metus, ultricies sagittis hendrerit eget, volutpat vel dui. Proin id urna hendrerit, scelerisque arcu sit amet, egestas neque. Sed fringilla odio tincidunt sapien malesuada facilisis.
+The Adobe for creativity connector is available in three places: 🗨️ Claude chat (web & mobile), 🖥️ Cowork (desktop), 💻 Claude Desktop.
 
+<InlineAlert slots="text" variant="info" />
 
-<DiscoverBlock slots="link, text"/>
+Note: New connectors and skills can’t be browsed or installed from the iOS or Android apps. Set up on web or desktop first, then use the mobile apps to run the workflows you’ve installed.
 
-[Segments API](guides/dummy_oauth_client/index.md)
+→ [Follow instructions to get started](./getting-started/index.md)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. Nam blandit vitae ante et auctor. Donec placerat egestas posuere. Aliquam erat volutpat. In condimentum massa eu pharetra porta. Nunc tempus massa sit amet nisl posuere sagittis. Mauris sit amet rhoncus neque. Phasellus ut vulputate est, vel auctor metus.
+## Continue in Adobe apps
 
-Donec tincidunt turpis in congue vulputate. Suspendisse potenti. Phasellus feugiat eros sem, tristique sollicitudin lacus consectetur id. Cras tortor orci, venenatis ac vulputate sit amet, auctor sed ex. Ut vel convallis felis. Etiam luctus, diam sed venenatis tincidunt, ipsum turpis volutpat eros, nec interdum arcu mi molestie dolor. Donec id mauris sed odio mollis viverra sed lobortis quam. Aliquam mi metus, ultricies sagittis hendrerit eget, volutpat vel dui. Proin id urna hendrerit, scelerisque arcu sit amet, egestas neque. Sed fringilla odio tincidunt sapien malesuada facilisis.
+Start in Claude, then take your work further in Adobe apps when you need more control. 
 
-<DiscoverBlock slots="link, text"/>
+Batch edit photos and send them to Firefly Boards to organize and refine. Start a design from a template and continue in Express with full editing capabilities. Or download your assets and pick up where you left off in any Adobe app.
 
-[Reporting Guide API](guides/dummy_using_postman/index.md)
+## Get help
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. Nam blandit vitae ante et auctor. Donec placerat egestas posuere. Aliquam erat volutpat. In condimentum massa eu pharetra porta. Nunc tempus massa sit amet nisl posuere sagittis. Mauris sit amet rhoncus neque. Phasellus ut vulputate est, vel auctor metus.
-
-Donec tincidunt turpis in congue vulputate. Suspendisse potenti. Phasellus feugiat eros sem, tristique sollicitudin lacus consectetur id. Cras tortor orci, venenatis ac vulputate sit amet, auctor sed ex. Ut vel convallis felis. Etiam luctus, diam sed venenatis tincidunt, ipsum turpis volutpat eros, nec interdum arcu mi molestie dolor. Donec id mauris sed odio mollis viverra sed lobortis quam. Aliquam mi metus, ultricies sagittis hendrerit eget, volutpat vel dui. Proin id urna hendrerit, scelerisque arcu sit amet, egestas neque. Sed fringilla odio tincidunt sapien malesuada facilisis.
-
-<DiscoverBlock slots="link, text"/>
-
-[Migrating from 1.4 to 2.0](guides/migrating/index.md)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. Nam blandit vitae ante et auctor. Donec placerat egestas posuere. Aliquam erat volutpat. In condimentum massa eu pharetra porta. Nunc tempus massa sit amet nisl posuere sagittis. Mauris sit amet rhoncus neque. Phasellus ut vulputate est, vel auctor metus.
-
-Donec tincidunt turpis in congue vulputate. Suspendisse potenti. Phasellus feugiat eros sem, tristique sollicitudin lacus consectetur id. Cras tortor orci, venenatis ac vulputate sit amet, auctor sed ex. Ut vel convallis felis. Etiam luctus, diam sed venenatis tincidunt, ipsum turpis volutpat eros, nec interdum arcu mi molestie dolor. Donec id mauris sed odio mollis viverra sed lobortis quam. Aliquam mi metus, ultricies sagittis hendrerit eget, volutpat vel dui. Proin id urna hendrerit, scelerisque arcu sit amet, egestas neque. Sed fringilla odio tincidunt sapien malesuada facilisis.
-
-<DiscoverBlock width="100%" slots="heading, link, text"/>
-
-### API References
-
-[Try the API](api/index.md)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. Nam blandit vitae ante et auctor. Donec placerat egestas posuere. Aliquam erat volutpat. In condimentum massa eu pharetra porta. Nunc tempus massa sit amet nisl posuere sagittis. Mauris sit amet rhoncus neque. Phasellus ut vulputate est, vel auctor metus.
-
-Donec tincidunt turpis in congue vulputate. Suspendisse potenti. Phasellus feugiat eros sem, tristique sollicitudin lacus consectetur id. Cras tortor orci, venenatis ac vulputate sit amet, auctor sed ex. Ut vel convallis felis. Etiam luctus, diam sed venenatis tincidunt, ipsum turpis volutpat eros, nec interdum arcu mi molestie dolor. Donec id mauris sed odio mollis viverra sed lobortis quam. Aliquam mi metus, ultricies sagittis hendrerit eget, volutpat vel dui. Proin id urna hendrerit, scelerisque arcu sit amet, egestas neque. Sed fringilla odio tincidunt sapien malesuada facilisis.
-
-## Contributing
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. Nam blandit vitae ante et auctor. Donec placerat egestas posuere. Aliquam erat volutpat. In condimentum massa eu pharetra porta. Nunc tempus massa sit amet nisl posuere sagittis. Mauris sit amet rhoncus neque. Phasellus ut vulputate est, vel auctor metus.
-
-Donec tincidunt turpis in congue vulputate. Suspendisse potenti. Phasellus feugiat eros sem, tristique sollicitudin lacus consectetur id. Cras tortor orci, venenatis ac vulputate sit amet, auctor sed ex. Ut vel convallis felis. Etiam luctus, diam sed venenatis tincidunt, ipsum turpis volutpat eros, nec interdum arcu mi molestie dolor. Donec id mauris sed odio mollis viverra sed lobortis quam. Aliquam mi metus, ultricies sagittis hendrerit eget, volutpat vel dui. Proin id urna hendrerit, scelerisque arcu sit amet, egestas neque. Sed fringilla odio tincidunt sapien malesuada facilisis.
-
-
-## API Requests & Rate Limits
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend ornare purus, vel dapibus augue suscipit in. Nam blandit vitae ante et auctor. Donec placerat egestas posuere. Aliquam erat volutpat. In condimentum massa eu pharetra porta. Nunc tempus massa sit amet nisl posuere sagittis. Mauris sit amet rhoncus neque. Phasellus ut vulputate est, vel auctor metus.
-
-Donec tincidunt turpis in congue vulputate. Suspendisse potenti. Phasellus feugiat eros sem, tristique sollicitudin lacus consectetur id. Cras tortor orci, venenatis ac vulputate sit amet, auctor sed ex. Ut vel convallis felis. Etiam luctus, diam sed venenatis tincidunt, ipsum turpis volutpat eros, nec interdum arcu mi molestie dolor. Donec id mauris sed odio mollis viverra sed lobortis quam. Aliquam mi metus, ultricies sagittis hendrerit eget, volutpat vel dui. Proin id urna hendrerit, scelerisque arcu sit amet, egestas neque. Sed fringilla odio tincidunt sapien malesuada facilisis.
+* Stuck on setup? Have a question? Or want to request a feature? See [FAQ & support](./support/index.md).
