@@ -2,21 +2,19 @@
 title: Adobe for Creativity available in Claude 
 description: This is the overview page of creativity in Claude
 ---
-<Superhero slots="image, icon, heading, text, buttons" variant="halfWidth" />
 
-![Hero image](./assets/3P_PR_RETOUCHPORTRAITS_16x9_042426.png)
+<Superhero slots="fullWidthBackground, video, heading, text, buttons" variant="halfWidth" textColor="white" overGradient />
 
-:adobe:
+![Gradient background](../assets/vertical-gradient.png)
+
+[video_url](./assets/social variation.mp4)
 
 # Adobe for creativity available in Claude
 
 Adobe for creativity brings capabilities across the creative suite into a unified, creative connector. Access 50+ tools across Photoshop, Lightroom, Illustrator, Firefly, Premiere, Express, InDesign, and Adobe Stock — all through natural language, without switching apps. Describe what you want to achieve, from editing photos and vectors to designing assets and formatting video. Sign in with your Adobe account for higher usage limits, more tools, and cross-session continuity.
 
 * [Try it in Claude](https://claude.ai/directory/connectors/adobe-creativity)
-
-<Embed slots="video" />
-
-./assets/social variation.mp4
+* [Get Started](../getting-started/index.md)
 
 
 ## What you can do with Adobe for creativity
@@ -79,8 +77,6 @@ Best for: quick conversational editst.
 Note: New connectors and skills can’t be browsed or installed from the iOS or Android apps. Set up on web or desktop first, then use the mobile apps to run the workflows you’ve installed.
 
 → [Full setup instructions for every surface](./getting-started/index.md)
-
-![Image](./assets/3P_PR_RESIZEPHOTOSVIDEOS_16x9_042426.png)
 
 ## Continue in Adobe apps
 
