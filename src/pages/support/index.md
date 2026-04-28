@@ -162,10 +162,6 @@ There are size limits on both Claude and Adobe sides. If you hit one:\<br /\>\<b
 
 <AccordionItem slots="heading, text"/>
 
-### Still stuck?
+## Connect with us
 
-* Browse community discussions or connect with us on [Discord](http://discord.gg/tppGPapr2e)
-
-## Give feedback
-
-If something isn't working or you have an idea, we want to hear it. [Discord](http://discord.gg/tppGPapr2e)
+* Browse community discussions, share your feedback, or connect with us on [Discord](http://discord.gg/tppGPapr2e)
