@@ -30,15 +30,23 @@ The connector links Claude to Adobe's creative tools. Set it up once, and Claude
 
 ![Connector setup](../assets/connector.png)
 
-### Plugins
+### Plugin
 
-To be updated
-Only users with access to paid Claude plans would be able to install Plugins. 
-Install plugin will always give you the latest skills. 
+The plugin extends Claude with a bundled set of tools and skills tailored to a specific creative workflow. Install it once, and Claude gains new capabilities available across your conversations.
 
-![Skills setup](../assets/connector.png)
+[Use this link](https://claude.ai/directory/plugins/adobe-for-creativity%40knowledge-work-plugins) to install directly or follow these instructions:
 
-*Note: Plugins ensure users have the latest update of the skills.*
+* Open *Claude* at Claude Desktop and sign in.
+* In the left sidebar, click Customize.
+* Click Browse plugins.
+* Search for the plugin by name (Adobe for creativity) and click it.
+* Click Install.
+
+Certain skills require authentication (e.g. log in with your Adobe ID), follow the prompts to complete setup. You can sometimes skip this and use the plugin with limited functionality.
+
+*Note: Only users with access to paid Claude plans would be able to install Plugins. Plugins ensure users have the latest update of the skills.*
+
+![Skills setup](../assets/plugin.png)
 
 ### Skills (Optional)
 
@@ -50,16 +58,16 @@ Skills are available on GitHub. Download the skill files, then add them to Claud
 * Download the skill file(s) you want to use.
 * Open Claude and go to **Customize**.
 * Select **Skills**.
-* Click **Add skill** and upload the file.
+* Click **Create skill** -> **Upload a skill** and upload the file.
 * Confirm to install.
 
 ![Skills setup](../assets/skills.png)
 
 ### How they work together
 
-Once added, the connector and skills are available to use in your chats and will guide Claude through your workflows. 
- 
-The connector gives you access and unlocks powerful capabilities on its own. Skills take it further by using the right tools to deliver results tailored to your workflow, making Claude noticeably better at specific creative tasks. 
+Once added, the connector, plugin, and skills are all available in your chats and work together to guide Claude through your creative workflows.
+
+The connector is the foundation — it links Claude to Adobe's tools and unlocks creative capabilities on its own. Skills take it further by using the right tools to deliver results tailored to your workflow, making Claude noticeably better at specific creative tasks. The plugin brings everything together in one install: it bundles a curated set of skills alongside the connector, so you get a complete, ready-to-use workflow without setting up each piece separately.
 
 *Note: Connectors and skills can't be browsed or installed from the iOS or Android apps. Set up on the web or desktop first, then use the mobile apps to run the workflows you've installed.*
 
