@@ -39,6 +39,8 @@ Drop in headshots and describe the look you want — balanced lighting, backgrou
 
 Describe your campaign and choose from design examples surfaced right in the conversation. Update text and colors and then animate.
 
+[Learn more](https://example.com)
+
 ![Feature 3](./assets/3P_PR_RESIZEPHOTOSVIDEOS_16x9_042426.png)
 
 ### Resize videos for any platform
