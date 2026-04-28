@@ -44,29 +44,15 @@ Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Re
 
 ## Available across Claude
 
-The Adobe for creativity connector is available in three places: 
+You don’t need an Adobe account to start. Guest users can use free tools included in this MCP right away (about ~40 standard tools), directly in chat. Sign in with a free or paid Adobe account when you want more tools, Creative Cloud storage for your assets, and higher usage limits. You'll be able to continue across sessions.
 
-Because it's built on the Model Context Protocol (MCP), it works anywhere Claude runs: Claude chat (web and mobile), Claude Desktop and Cowork. 
-
-### 🗨️ Claude chat (web & mobile)
-
-Best for: quick conversational editst.
-
-### 🖥️ Cowork (desktop)
-
-### 💻 Claude Desktop
+The Adobe for creativity connector is available in three places: 🗨️ Claude chat (web & mobile), 🖥️ Cowork (desktop), 💻 Claude Desktop.
 
 <InlineAlert slots="text" variant="info" />
 
 Note: New connectors and skills can’t be browsed or installed from the iOS or Android apps. Set up on web or desktop first, then use the mobile apps to run the workflows you’ve installed.
 
 → [Full setup instructions for every surface](./getting-started/index.md)
-
-## Continue in Adobe apps
-
-Start in Claude, then take your work further in Adobe apps when you need more control. 
-
-Batch edit photos and send them to Firefly Boards to organize and refine. Start a design from a template and continue in Express with full editing capabilities. Or download your assets and pick up where you left off in any Adobe app.
 
 ## Access details
 
@@ -76,6 +62,12 @@ Access scales with your Claude plan and your Adobe sign-in status.
 | --- | --- | --- | --- |
 | **Tools available** | ~40 standard tools | Expanded tool set (placeholder — confirm exact count) | All available tools |
 | **Asset storage** | Session only | Saved to your Creative Cloud Files | Saved to your Creative Cloud Files |
+
+## Continue in Adobe apps
+
+Start in Claude, then take your work further in Adobe apps when you need more control. 
+
+Batch edit photos and send them to Firefly Boards to organize and refine. Start a design from a template and continue in Express with full editing capabilities. Or download your assets and pick up where you left off in any Adobe app.
 
 ## Get help
 
