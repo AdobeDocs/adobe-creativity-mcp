@@ -7,22 +7,12 @@ description: Set up Adobe for creativity in Claude chat, Cowork, and review tech
 
 This page covers everything you need to set up and start using Adobe for creativity in Claude — whether you're using Claude chat, Claude Desktop, or Cowork.
 
-**Jump to:**
-
-* [What you need to get started](#what-you-need-to-get-started)
-* [Connector vs. Skills](#connector-vs-skills)
-* [Technical requirements](#technical-requirements)
-
 ## What you need to get started
 
 * A Claude account (Free, Pro, Max, Team, or Enterprise). Some features require a paid plan — see [Technical requirements](#technical-requirements) for details.
 * An Adobe account for full functionality, higher limits, and saved work across sessions.
-* Code execution and file creation enabled in Claude (required for skills):
-  * Free, Pro, Max: Settings → Capabilities.
-  * Team, Enterprise: An admin must enable Code execution, file creation, and Skills at the organization level.
 
 ## Connector, Plugin & Skills
-What's the difference and how to set them up
 
 ### Connector
 
@@ -36,7 +26,7 @@ The connector links Claude to Adobe's creative tools. Set it up once, and Claude
 * Click **Browse connectors**.
 * Search for **Adobe for creativity** and click it.
 * Click **Install** and confirm the connection.
-* Sign in with your Adobe account to unlock higher usage limits, more tools, and work that saves across sessions. (You can skip this step and continue as a guest, but with reduced capabilities — see [Access details](../index.md#access-details).)
+* Sign in with your Adobe account to unlock higher usage limits, more tools, and work that saves across sessions. (You can skip this step and continue as a guest, but with reduced capabilities)
 
 ![Connector setup](../assets/connector.png)
 
