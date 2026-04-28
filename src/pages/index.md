@@ -16,9 +16,7 @@ Adobe for creativity brings capabilities across the creative cloud into a unifie
 * [Try it in Claude](https://claude.ai/directory/connectors/adobe-creativity)
 * [Get Started](./getting-started/index.md)
 
-## What you can do with Adobe for creativity
-
-These examples show what you can do with the connector and skills. You can start with these prompts and iterate to get the result you want.
+## Examples of What You Can Do
 
 <Columns slots="image, heading, text" repeat="3" isReversed="true" />
 
@@ -40,6 +38,8 @@ Describe your campaign and choose from design examples surfaced right in the con
 
 Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Reels, or any platform.
 
+→ [Click here to see more use cases and prompt ideas](./prompts-and-workflows/index.md)
+
 ## Available across Claude
 
 **You don’t need an Adobe account to start.** Guest users can use free tools included in this MCP right away (about ~40 standard tools), directly in chat. Sign in with a free or paid Adobe account when you want more tools, Creative Cloud storage for your assets, and higher usage limits, and continuity across sessions.
@@ -50,7 +50,7 @@ The Adobe for creativity connector is available in three places: 🗨️ Claude 
 
 Note: New connectors and skills can’t be browsed or installed from the iOS or Android apps. Set up on web or desktop first, then use the mobile apps to run the workflows you’ve installed.
 
-→ [Full setup instructions for every surface](./getting-started/index.md)
+→ [Follow instructions to get started](./getting-started/index.md)
 
 ## Continue in Adobe apps
 
