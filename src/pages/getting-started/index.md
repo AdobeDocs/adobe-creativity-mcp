@@ -36,11 +36,11 @@ The plugin extends Claude with a bundled set of tools and skills tailored to a s
 
 [Use this link](https://claude.ai/directory/plugins/adobe-for-creativity%40knowledge-work-plugins) to install directly or follow these instructions:
 
-* Open *Claude* at Claude Desktop and sign in.
-* In the left sidebar, click Customize.
-* Click Browse plugins.
-* Search for the plugin by name (Adobe for creativity) and click it.
-* Click Install.
+* Open **Claude** at Claude Desktop and sign in.
+* In the left sidebar, click **Customize**.
+* Click **Browse plugins**.
+* Search for **Adobe for creativity** and click it.
+* Click **Install**.
 
 Certain skills require authentication (e.g. log in with your Adobe ID), follow the prompts to complete setup. You can sometimes skip this and use the plugin with limited functionality.
 
