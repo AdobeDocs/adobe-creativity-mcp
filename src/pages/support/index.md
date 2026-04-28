@@ -9,7 +9,11 @@ Find answers to common questions, fix common issues, and learn how to get help w
 
 ## Connect with us
 
-* Browse community discussions, share your feedback, or connect with us on [Discord](http://discord.gg/tppGPapr2e)
+* Browse community discussions, share your feedback, or connect with us on [Discord](http://discord.gg/tppGPapr2e), channel #claude-adoe-for-creativity.
+
+![Discord setup](../assets/discord.png)
+
+*Note: If you don't see the channel, click on **Adobe Firefly** in the upper left corner, check **Show All Channels**, and you should see #claude-adobe-for-creativity channel under the Agentic AI section.*
 
 ## Frequently asked questions
 
