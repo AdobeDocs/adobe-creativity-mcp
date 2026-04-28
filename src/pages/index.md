@@ -42,7 +42,7 @@ Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Re
 
 ## Available across Claude
 
-**You don’t need an Adobe account to start.** Guest users can use free tools included in this MCP right away (about ~40 standard tools), directly in chat. Sign in with a free or paid Adobe account when you want more tools, Creative Cloud storage for your assets, and higher usage limits, and continuity across sessions.
+**You don’t need an Adobe account to start.** Guest users can use free tools included in this MCP right away (about ~40 standard tools), directly in chat. Sign in with a free or paid Adobe account when you want more tools, Creative Cloud storage for your assets, higher usage limits, and continuity across sessions.
 
 The Adobe for creativity connector is available in three places: 🗨️ Claude chat (web & mobile), 🖥️ Cowork (desktop), 💻 Claude Desktop.
 
