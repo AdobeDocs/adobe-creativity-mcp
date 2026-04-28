@@ -31,7 +31,7 @@ These examples show what you can do with the connector and skills. You can start
 
 Drop in headshots and describe the look you want — balanced lighting, background blur, auto-straighten, and a portrait crop.
 
-[Learn more](https://example.com)
+[button 1](https://example.com)
 
 ![Feature 2](./assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
 
@@ -39,7 +39,7 @@ Drop in headshots and describe the look you want — balanced lighting, backgrou
 
 Describe your campaign and choose from design examples surfaced right in the conversation. Update text and colors and then animate.
 
-[Learn more](https://example.com)
+[button 2](https://example.com)
 
 ![Feature 3](./assets/3P_PR_RESIZEPHOTOSVIDEOS_16x9_042426.png)
 
@@ -47,7 +47,38 @@ Describe your campaign and choose from design examples surfaced right in the con
 
 Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Reels, or any platform.
 
-[Learn more](https://example.com)
+[button 3](https://example.com)
+
+### option 2 for testing
+
+option 2 for testing
+
+<Cards slots="image, heading, text, links" width="33%" />
+
+![Feature 1](./assets/3P_PR_RETOUCHPORTRAITS_16x9_042426.png)
+
+### Retouch portraits 2
+
+Drop in headshots and describe the look you want — balanced lighting, background blur, auto-straighten, and a portrait crop.
+
+[button 1](https://example.com)
+
+![Feature 2](./assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
+
+### Design from template 2
+
+Describe your campaign and choose from design examples surfaced right in the conversation. Update text and colors and then animate.
+
+[button 2](https://example.com)
+
+![Feature 3](./assets/3P_PR_RESIZEPHOTOSVIDEOS_16x9_042426.png)
+
+### Resize videos for any platform 2
+
+Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Reels, or any platform.
+
+[button 3](https://example.com)
+
 
 
 ## Connector vs. Skills — what’s the difference and how to set them up
