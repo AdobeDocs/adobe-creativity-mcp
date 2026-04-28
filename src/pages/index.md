@@ -13,7 +13,7 @@ description: This is the overview page of creativity in Claude
 
 Adobe for creativity brings capabilities across the creative cloud into a unified, creative connector. Access 50+ tools across Photoshop, Lightroom, Illustrator, Firefly, Premiere, Express, InDesign, and Adobe Stock — all through natural language, without switching apps. Describe what you want to achieve, from editing photos and vectors to designing assets and formatting video. Sign in with your Adobe account for higher usage limits, more tools, and cross-session continuity.
 
-* [Try it in Claude](https://claude.ai/directory/connectors/adobe-creativity)
+* [Try it in Claude](http://www.adobe.com/go/adobe-for-creativity-claude)
 * [Get Started](./getting-started/index.md)
 
 ## Examples of What You Can Do
