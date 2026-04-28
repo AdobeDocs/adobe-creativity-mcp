@@ -7,7 +7,7 @@ description: This is the overview page of creativity in Claude
 
 ![Gradient background](./assets/vertical-gradient.png)
 
-[video_url](./assets/social variation.mp4)
+[video_url](https://www.youtube.com/watch?v=72DV8UaWdbk)
 
 # Adobe for creativity available in Claude
 
