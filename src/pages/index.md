@@ -18,6 +18,36 @@ Adobe for creativity brings capabilities across the creative suite into a unifie
 
 ./assets/social variation.mp4
 
+
+## What you can do with Adobe for creativity
+
+These examples show what you can do with the connector and skills. You can start with these prompts and iterate to get the result you want.
+
+<Columns slots="image, heading, text, buttons" repeat="3" isReversed="true" />
+
+![Feature 1](./assets/3P_PR_RETOUCHPORTRAITS_16x9_042426.png)
+
+### Retouch portraits
+
+Drop in headshots and describe the look you want — balanced lighting, background blur, auto-straighten, and a portrait crop.
+
+[Learn more](https://example.com)
+
+![Feature 2](./assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
+
+### Design from template
+
+Describe your campaign and choose from design examples surfaced right in the conversation. Update text and colors and then animate.
+
+![Feature 3](./assets/3P_PR_RESIZEPHOTOSVIDEOS_16x9_042426.png)
+
+### Resize videos for any platform
+
+Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Reels, or any platform.
+
+[Learn more](https://example.com)
+
+
 ## Connector vs. Skills — what’s the difference and how to set them up
 
 To get the full experience, you’ll set up two things:
