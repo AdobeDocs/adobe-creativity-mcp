@@ -21,25 +21,25 @@ Drop in headshots and describe the look you want — balanced lighting, backgrou
 
 ### Design from template
 
-Describe your campaign and choose from design examples surfaced right in the conversation. Update text and colors and then animate.\<br/\>\<br/\>*Prompt example: “Make an Instagram story for my boutique sale from template library.”*
+Describe your campaign and choose from design examples surfaced right in the conversation. Update text and colors and then animate.\<br/\>\<br/\>*Prompt example: “Make an Instagram story for my boutique sale from template library.”*\<br/\>\<br/\>*Require Adobe ID to use.*
 
 [Resize Video](https://raw.githubusercontent.com/AdobeDocs/adobe-creativity-mcp/initial-content/src/pages/assets/Claude%20Adobe%20-%20Resize%20Photo%20and%20Video.mp4)
 
 ### Resize videos for any platform
 
-Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Reels, or any platform.\<br/\>\<br/\>*Prompt example: “Resize this video for YouTube shorts.”*
+Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Reels, or any platform.\<br/\>\<br/\>*Prompt example: “Resize this video for YouTube shorts.”*\<br/\>\<br/\>*Require Adobe ID to use.*
 
 [Quick Cut Video](https://raw.githubusercontent.com/AdobeDocs/adobe-creativity-mcp/initial-content/src/pages/assets/Claude%20Adobe%20-%20Quick%20Cut.mp4)
 
 ### Quick Cut your videos
 
-Turn longer videos into short, engaging clips — ideal for highlights, teasers, and social content.\<br/\>\<br/\>*Prompt example: “Create a 30-second highlight reel from this video.”*
+Turn longer videos into short, engaging clips — ideal for highlights, teasers, and social content.\<br/\>\<br/\>*Prompt example: “Create a 30-second highlight reel from this video.”*\<br/\>\<br/\>*Require Adobe ID to use.*
 
 [Social Video](https://raw.githubusercontent.com/AdobeDocs/adobe-creativity-mcp/initial-content/src/pages/assets/social%20variation.mp4)
 
 ### Create social variations
 
-Turn one idea or asset into multiple social-ready versions with the right formats, copy, and visual treatments for each channel.\<br/\>\<br/\>*Prompt example: “Create social variations of this post for Instagram, LinkedIn, and TikTok.”*
+Turn one idea or asset into multiple social-ready versions with the right formats, copy, and visual treatments for each channel.\<br/\>\<br/\>*Prompt example: “Create social variations of this post for Instagram, LinkedIn, and TikTok.”*\<br/\>\<br/\>*Require Adobe ID to use.*
 
 [Batch Video](https://raw.githubusercontent.com/AdobeDocs/adobe-creativity-mcp/initial-content/src/pages/assets/Claude%20Adobe%20-%20Batch%20Edit%20Photos.mp4)
 
