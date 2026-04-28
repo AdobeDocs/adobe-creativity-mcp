@@ -27,31 +27,31 @@ Use these as starting points, then iterate in chat.
 
 Drop in headshots and describe the look you want — balanced lighting, background blur, auto-straighten, and a portrait crop.\<br/\>\<br/\>Prompt example: “Use portrait refinement to edit these headshots.”
 
-![Feature 2](./assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
+![Feature 2](./../assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
 
 ### Design from template
 
 Describe your campaign and choose from design examples surfaced right in the conversation. Update text and colors and then animate.\<br/\>\<br/\>Prompt example: “Make an Instagram story for my boutique sale from template library.”
 
-![Feature 3](./assets/3P_PR_RESIZEPHOTOSVIDEOS_16x9_042426.png)
+![Feature 3](./../assets/3P_PR_RESIZEPHOTOSVIDEOS_16x9_042426.png)
 
 ### Resize videos for any platform
 
 Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Reels, or any platform.\<br/\>\<br/\>Prompt example: “Resize this video for YouTube shorts.”
 
-![Feature 4](./assets/3P_PR_RETOUCHPORTRAITS_16x9_042426.png)
+![Feature 4](./../assets/3P_PR_RETOUCHPORTRAITS_16x9_042426.png)
 
 ### Quick Cut your videos
 
 Turn longer videos into short, engaging clips — ideal for highlights, teasers, and social content.\<br/\>\<br/\>Prompt example: “Create a 30-second highlight reel from this video.”
 
-![Feature 5](./assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
+![Feature 5](./../assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
 
 ### Create social variations
 
 Turn one idea or asset into multiple social-ready versions with the right formats, copy, and visual treatments for each channel.\<br/\>\<br/\>Prompt example: “Create social variations of this post for Instagram, LinkedIn, and TikTok.”
 
-![Feature 6](./assets/3P_PR_RESIZEPHOTOSVIDEOS_16x9_042426.png)
+![Feature 6](./../assets/3P_PR_RESIZEPHOTOSVIDEOS_16x9_042426.png)
 
 ### Batch edit your photos
 
