@@ -21,7 +21,7 @@ Use these as starting points, then iterate in chat.
 
 <Columns slots="image, heading, text" repeat="6" isReversed="true" />
 
-![Feature 1](./assets/3P_PR_RETOUCHPORTRAITS_16x9_042426.png)
+![Feature 1](./../assets/3P_PR_RETOUCHPORTRAITS_16x9_042426.png)
 
 ### Retouch portraits
 
