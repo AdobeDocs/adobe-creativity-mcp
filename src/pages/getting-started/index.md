@@ -29,12 +29,6 @@ What's the difference and how to set them up
 
 To get the full experience, you'll set up two things:
 
-
-
-<Columns slots="image, heading, text" repeat="3" isReversed="true" />
-
-![Feature 1](./../assets/3P_PR_RETOUCHPORTRAITS_16x9_042426.png)
-
 ### Connector
 
 The connector links Claude to Adobe's creative tools. Set it up once, and Claude can access and use those tools within your conversations.
@@ -49,7 +43,7 @@ The connector links Claude to Adobe's creative tools. Set it up once, and Claude
 * Click **Install** and confirm the connection.
 * Sign in with your Adobe account to unlock higher usage limits, more tools, and work that saves across sessions. (You can skip this step and continue as a guest, but with reduced capabilities — see [Access details](../index.md#access-details).)
 
-![Feature 2](./../assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
+![Connector setup](../../assets/connector.png)
 
 ### Skills
 
@@ -66,13 +60,9 @@ Skills are available on GitHub. Download the skill files, then add them to Claud
 
 Once added, the connector and skills are available to use in your chats and will guide Claude through your workflows.
 
-![Feature 3](./../assets/3P_PR_RESIZEPHOTOSVIDEOS_16x9_042426.png)
-
 ### Plugin
 
 To be updated
-
-[button 3](https://example.com)
 
 ### How they work together
 
@@ -81,8 +71,6 @@ Once added, the connector and skills are available to use in your chats and will
 The connector gives you access and unlocks powerful capabilities on its own. Skills take it further by using the right tools to deliver results tailored to your workflow, making Claude noticeably better at specific creative tasks. 
 
 *Note: Connectors and skills can't be browsed or installed from the iOS or Android apps. Set up on the web or desktop first, then use the mobile apps to run the workflows you've installed.*
-
-![Connector setup](../../assets/connector.png)
 
 ## Set up in Claude chat
 
@@ -113,13 +101,6 @@ By default, the connector is available anytime. If you've added many connectors,
 ### Step 2: Add creative skills
 
 The connector gives Claude access to Adobe tools. Skills teach Claude how to use those tools well for specific kinds of work. We strongly recommend installing the skills that match the creative work you do most.
-
-#### Enable skills in your settings
-
-Before skills can run, make sure **Code execution and file creation** is enabled:
-
-* **Free, Pro, Max:** Settings → Capabilities → Code execution and file creation.
-* **Team, Enterprise:** An owner must enable both Code execution and file creation and Skills under Organization settings → Skills before members can use them.
 
 #### The Adobe skills
 
