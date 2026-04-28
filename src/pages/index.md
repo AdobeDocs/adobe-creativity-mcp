@@ -11,17 +11,17 @@ description: This is the overview page of creativity in Claude
 
 # Adobe for creativity available in Claude
 
-Adobe for creativity brings capabilities across the creative suite into a unified, creative connector. Access 50+ tools across Photoshop, Lightroom, Illustrator, Firefly, Premiere, Express, InDesign, and Adobe Stock — all through natural language, without switching apps. Describe what you want to achieve, from editing photos and vectors to designing assets and formatting video. Sign in with your Adobe account for higher usage limits, more tools, and cross-session continuity.
+Adobe for creativity brings capabilities across the creative cloud into a unified, creative connector. Access 50+ tools across Photoshop, Lightroom, Illustrator, Firefly, Premiere, Express, InDesign, and Adobe Stock — all through natural language, without switching apps. Describe what you want to achieve, from editing photos and vectors to designing assets and formatting video. Sign in with your Adobe account for higher usage limits, more tools, and cross-session continuity.
 
 * [Try it in Claude](https://claude.ai/directory/connectors/adobe-creativity)
-* [Get Started](../getting-started/index.md)
+* [Get Started](./getting-started/index.md)
 
 
 ## What you can do with Adobe for creativity
 
 These examples show what you can do with the connector and skills. You can start with these prompts and iterate to get the result you want.
 
-<Columns slots="image, heading, text, buttons" repeat="3" isReversed="true" />
+<Columns slots="image, heading, text" repeat="3" isReversed="true" />
 
 ![Feature 1](./assets/3P_PR_RETOUCHPORTRAITS_16x9_042426.png)
 
@@ -29,23 +29,17 @@ These examples show what you can do with the connector and skills. You can start
 
 Drop in headshots and describe the look you want — balanced lighting, background blur, auto-straighten, and a portrait crop.
 
-[button 1](https://example.com)
-
 ![Feature 2](./assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
 
 ### Design from template
 
 Describe your campaign and choose from design examples surfaced right in the conversation. Update text and colors and then animate.
 
-[button 2](https://example.com)
-
 ![Feature 3](./assets/3P_PR_RESIZEPHOTOSVIDEOS_16x9_042426.png)
 
 ### Resize videos for any platform
 
 Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Reels, or any platform.
-
-[button 3](https://example.com)
 
 
 | What you want to do | Try this |
