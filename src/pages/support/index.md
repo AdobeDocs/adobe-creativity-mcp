@@ -7,27 +7,31 @@ description: Find answers to common questions, troubleshooting steps, and how to
 
 Find answers to common questions, fix common issues, and learn how to get help when you're stuck.
 
-**Jump to:**
-
-* [Frequently asked questions](#frequently-asked-questions)
-* [Troubleshooting](#troubleshooting)
-* [Still stuck?](#still-stuck)
-
 ## Frequently asked questions
 
-[Placeholder note: review every answer below with Adobe legal/product before publishing — especially pricing, data handling, and credits.]
-
-## Getting started
+### Getting started
 
 <AccordionItem slots="heading, text"/>
 
-### Do I need an Adobe account to use this?
+#### Do I need an Adobe account to use the Adobe for creativity connector?
 
-No — you can use the connector as a guest with a limited set of tools. Signing in with an Adobe account unlocks more tools, persistent storage, and full Firefly and Stock capabilities. See access tiers.
+No, many Adobe tools are available without signing in. More tools are available when you sign in, including Gen Expand and video tools. A few tools require paid subscription.
 
 <AccordionItem slots="heading, text"/>
 
-### Do I need a paid Claude subscription?
+#### What can I do with the Adobe for creativity connector?  
+
+Access 50+ tools from across Adobe Creative Cloud suite in one conversation. Use skills for complex, multi-step workflows. Edit and retouch images, design from templates, resize photos and videos, and more  
+
+<AccordionItem slots="heading, text"/>
+
+#### Is Adobe for creativity connector powered by Adobe’s creative agent? 
+
+Yes, it is powered by Adobe's creative agent, that brings tools across Adobe Creative Cloud, informed by decades of understanding of creative workflows.
+
+<AccordionItem slots="heading, text"/>
+
+#### Do I need a paid Claude subscription?
 
 Not for the connector itself — any Claude plan works. A paid Claude plan (Pro, Max, Team, or Enterprise) is required to use Cowork and plugins.
 
