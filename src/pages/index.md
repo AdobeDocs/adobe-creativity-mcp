@@ -7,7 +7,7 @@ description: This is the overview page of creativity in Claude
 
 ![Gradient background](./assets/vertical-gradient.png)
 
-![Platform illustration](./assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
+![Platform illustration](./assets/sizzlegifv2.gif)
 
 # Adobe for creativity available in Claude
 
