@@ -3,11 +3,11 @@ title: Adobe for Creativity available in Claude
 description: This is the overview page of creativity in Claude
 ---
 
-<Superhero slots="fullWidthBackground, video, heading, text, buttons" variant="halfWidth" textColor="white" overGradient />
+<Superhero slots="fullWidthBackground, image, heading, text, buttons" variant="halfWidth" textColor="white" overGradient />
 
 ![Gradient background](./assets/vertical-gradient.png)
 
-[video_url](https://www.youtube.com/watch?v=72DV8UaWdbk)
+![Platform illustration](./assets/3P_PR_DESIGNFROMTEMPLATE_16x9_042426.png)
 
 # Adobe for creativity available in Claude
 
