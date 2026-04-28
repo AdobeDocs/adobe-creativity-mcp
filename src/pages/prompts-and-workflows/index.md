@@ -6,6 +6,7 @@ description: Example prompts for Adobe for creativity skills, multi-step Cowork 
 # Prompts & workflows
 
 Copy any prompt below into Claude to try it. The sections below are organized around the six skills that ship with Adobe for creativity — each section shows what that skill is good for and gives you prompts to try.  
+
 Use these as starting points, then iterate in chat. 
 
 | What you want to do | Try this |
@@ -19,4 +20,4 @@ Use these as starting points, then iterate in chat.
 
 ## Share your workflow
 
-Got a prompt that works well for you? [link to community, feedback form, or social tag]
+Got a prompt that works well for you, or have any questions? [Share with us on Discord](http://discord.gg/tppGPapr2e).
