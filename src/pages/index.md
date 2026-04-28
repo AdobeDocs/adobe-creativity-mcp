@@ -5,7 +5,7 @@ description: This is the overview page of creativity in Claude
 
 <Superhero slots="fullWidthBackground, video, heading, text, buttons" variant="halfWidth" textColor="white" overGradient />
 
-![Gradient background](../assets/vertical-gradient.png)
+![Gradient background](./assets/vertical-gradient.png)
 
 [video_url](./assets/social variation.mp4)
 
