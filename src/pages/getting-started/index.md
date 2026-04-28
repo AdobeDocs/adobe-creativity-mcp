@@ -91,11 +91,10 @@ System and platform requirements for using Adobe for creativity in Claude.
 
 ### Adobe account requirements
 
-An Adobe account is optional but recommended. See [Access details](../index.md#access-details) for what each level unlocks.
+An Adobe account is optional but recommended.
 
-* **Guest:** No Adobe sign-in. Limited tool set, no persistent storage.
-* **Free Adobe ID:** Access to more tools; assets saved to your free Adobe storage.
-* **Paid subscription** (Creative Cloud, Firefly, Adobe Stock, etc.): Full tool set; assets saved to your Creative Cloud Files.
+Guest users can use free tools included in this MCP right away (about ~40 standard tools), directly in chat. 
+Sign in with a free or paid Adobe account when you want more tools, Creative Cloud storage for your assets, and higher usage limits, and continuity across sessions.
 
 **Team and Enterprise setup:** An enterprise admin must enable 3P Connectors under Organization settings → Skills before members can use the full experience. Owners can also provision the connector and recommended skills organization-wide.
 
@@ -103,10 +102,6 @@ An Adobe account is optional but recommended. See [Access details](../index.md#a
 
 * macOS: Google Chrome version 143 and later; 
 * Windows: Google Chrome version 143 and later; Microsoft Edge version 143 and later
-
-### Claude App
-
-* Claude App in Chat mode - Opus/Sonnet. For CoWork, the native uploader is broken AGNT13P-295
 
 ### Operating system
 
@@ -122,5 +117,5 @@ An Adobe account is optional but recommended. See [Access details](../index.md#a
 
 ## What's next?
 
-* Explore the [prompt library](../prompts-and-workflows/index.md) for workflow-specific examples.
+* Explore the [Prompts and Workflows](../prompts-and-workflows/index.md) for workflow-specific examples.
 * Hit a problem? See [FAQ & support](../support/index.md).
