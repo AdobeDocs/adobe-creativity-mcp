@@ -11,8 +11,6 @@ This page covers everything you need to set up and start using Adobe for creativ
 
 * [What you need to get started](#what-you-need-to-get-started)
 * [Connector vs. Skills](#connector-vs-skills)
-* [Set up in Claude chat (web and Claude Desktop)](#set-up-in-claude-chat)
-* [Set up in Cowork (desktop app, paid plans)](#set-up-in-cowork)
 * [Technical requirements](#technical-requirements)
 
 ## What you need to get started
@@ -24,7 +22,6 @@ This page covers everything you need to set up and start using Adobe for creativ
   * Team, Enterprise: An admin must enable Code execution, file creation, and Skills at the organization level.
 
 ## Connector vs. Skills
-
 What's the difference and how to set them up
 
 To get the full experience, you'll set up two things:
@@ -43,7 +40,7 @@ The connector links Claude to Adobe's creative tools. Set it up once, and Claude
 * Click **Install** and confirm the connection.
 * Sign in with your Adobe account to unlock higher usage limits, more tools, and work that saves across sessions. (You can skip this step and continue as a guest, but with reduced capabilities — see [Access details](../index.md#access-details).)
 
-![Connector setup](../../assets/connector.png)
+![Connector setup](./assets/connector.png)
 
 ### Skills
 
