@@ -38,7 +38,7 @@ The connector links Claude to Adobe's creative tools. Set it up once, and Claude
 * Click **Install** and confirm the connection.
 * Sign in with your Adobe account to unlock higher usage limits, more tools, and work that saves across sessions. (You can skip this step and continue as a guest, but with reduced capabilities — see [Access details](../index.md#access-details).)
 
-![Connector setup](./assets/connector.png)
+![Connector setup](../assets/connector.png)
 
 ### Plugins
 
@@ -46,7 +46,7 @@ To be updated
 Only users with access to paid Claude plans would be able to install Plugins. 
 Install plugin will always give you the latest skills. 
 
-![Connector setup](./assets/connector.png)
+![Skills setup](../assets/connector.png)
 
 *Note: Plugins ensure users have the latest update of the skills.*
 
@@ -62,6 +62,8 @@ Skills are available on GitHub. Download the skill files, then add them to Claud
 * Select **Skills**.
 * Click **Add skill** and upload the file.
 * Confirm to install.
+
+![Skills setup](../assets/skills.png)
 
 Once added, the connector and skills are available to use in your chats and will guide Claude through your workflows.
 
