@@ -40,9 +40,9 @@ Install plugin will always give you the latest skills.
 
 *Note: Plugins ensure users have the latest update of the skills.*
 
-### Skills
+### Skills (Optional)
 
-Skills guide how those tools are used for specific tasks. Think of them as ready-made workflows, like portrait retouching or designing from templates, with the right steps already built in.
+If you are not able to use plugins, you can directly load Adobe skills into Claude. Skills guide how those tools are used for specific tasks. Think of them as ready-made workflows, like portrait retouching or designing from templates, with the right steps already built in.
 
 Skills are available on GitHub. Download the skill files, then add them to Claude:
 
@@ -54,8 +54,6 @@ Skills are available on GitHub. Download the skill files, then add them to Claud
 * Confirm to install.
 
 ![Skills setup](../assets/skills.png)
-
-Once added, the connector and skills are available to use in your chats and will guide Claude through your workflows.
 
 ### How they work together
 
@@ -76,8 +74,7 @@ System and platform requirements for using Adobe for creativity in Claude.
 | Claude on the web (claude.ai) | ✅ |
 | Claude Desktop (macOS, Windows) | ✅ |
 | Cowork (macOS, Windows) | ✅ — paid Claude plans only |
-| Claude iOS app | ⚠️ Run existing workflows only. New connectors, skills, and plugins can't be installed from mobile — set up on web or desktop first. |
-| Claude Android app | ⚠️ Same as iOS. |
+| Claude iOS app or Android app | ⚠️ Run existing workflows only. New connectors, skills, and plugins can't be installed from mobile — set up on web or desktop first. |
 
 ### Adobe account requirements
 
