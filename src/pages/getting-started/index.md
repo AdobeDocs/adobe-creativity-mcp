@@ -44,7 +44,7 @@ The plugin extends Claude with a bundled set of tools and skills tailored to a s
 
 Certain skills require authentication (e.g. log in with your Adobe ID), follow the prompts to complete setup. You can sometimes skip this and use the plugin with limited functionality.
 
-*Note: Only users with access to paid Claude plans would be able to install Plugins. Plugins ensure users have the latest update of the skills.*
+*Note: To use the plugin, make sure the connector is also connected and enabled in your settings. Only users with access to paid Claude plans would be able to install Plugins. Plugins ensure users have the latest update of the skills.*
 
 ![Skills setup](../assets/plugin.png)
 

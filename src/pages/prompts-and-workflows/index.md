@@ -52,4 +52,4 @@ Apply consistent adjustments across a set of images so they look polished and co
 
 ## Share your workflow
 
-Got a prompt that works well for you, or have any questions? [Share with us on Discord](http://discord.gg/tppGPapr2e).
+Got a prompt that works well for you, or have any questions? See [FAQ & support](../support/index.md).
