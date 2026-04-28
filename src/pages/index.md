@@ -4,7 +4,7 @@ description: This is the overview page of creativity in Claude
 ---
 <Superhero slots="image, icon, heading, text, buttons" variant="halfWidth" />
 
-![Hero image](./assets/cc.png)
+![Hero image](./assets/3P_PR_RETOUCHPORTRAITS_16x9_042426.png)
 
 :adobe:
 
@@ -14,7 +14,9 @@ Adobe for creativity brings capabilities across the creative suite into a unifie
 
 * [Try it in Claude](https://claude.ai/directory/connectors/adobe-creativity)
 
-![Hero image](./assets/3P_PR_RETOUCHPORTRAITS_16x9_042426.png)
+<Embed slots="video" />
+
+https://www.youtube.com/watch?v=72DV8UaWdbk
 
 ## Connector vs. Skills — what’s the difference and how to set them up
 
