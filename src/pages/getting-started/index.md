@@ -21,10 +21,8 @@ This page covers everything you need to set up and start using Adobe for creativ
   * Free, Pro, Max: Settings → Capabilities.
   * Team, Enterprise: An admin must enable Code execution, file creation, and Skills at the organization level.
 
-## Connector vs. Skills
+## Connector, Plugin & Skills
 What's the difference and how to set them up
-
-To get the full experience, you'll set up two things:
 
 ### Connector
 
@@ -42,6 +40,16 @@ The connector links Claude to Adobe's creative tools. Set it up once, and Claude
 
 ![Connector setup](./assets/connector.png)
 
+### Plugins
+
+To be updated
+Only users with access to paid Claude plans would be able to install Plugins. 
+Install plugin will always give you the latest skills. 
+
+![Connector setup](./assets/connector.png)
+
+*Note: Plugins ensure users have the latest update of the skills.*
+
 ### Skills
 
 Skills guide how those tools are used for specific tasks. Think of them as ready-made workflows, like portrait retouching or designing from templates, with the right steps already built in.
@@ -56,10 +64,6 @@ Skills are available on GitHub. Download the skill files, then add them to Claud
 * Confirm to install.
 
 Once added, the connector and skills are available to use in your chats and will guide Claude through your workflows.
-
-### Plugin
-
-To be updated
 
 ### How they work together
 
