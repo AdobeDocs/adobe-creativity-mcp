@@ -6,7 +6,7 @@ description: Example prompts for Adobe for creativity skills, multi-step Cowork 
 # Prompts & workflows
 
 Copy any prompt below into Claude to try it. The sections below are organized around the six skills that ship with Adobe for creativity — each section shows what that skill is good for and gives you prompts to try.  
-Use these as starting points, then iterate in chat. Claude's strength is the back-and-forth: start with a rough direction and refine.
+Use these as starting points, then iterate in chat. 
 
 | What you want to do | Try this |
 | --- | --- |
