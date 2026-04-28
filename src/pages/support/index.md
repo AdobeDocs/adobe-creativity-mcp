@@ -83,17 +83,17 @@ We’re continuously learning and optimizing for the best experience for our use
 
 Most issues fall into a few categories. Try the fixes below before contacting support.
 
-#### Installation issues
+### Installation issues
 
 <AccordionItem slots="heading, text"/>
 
-### "I can't find 'Adobe for creativity' in the connectors directory"
+#### "I can't find 'Adobe for creativity' in the connectors directory"
 
 Confirm you're on a supported platform. The directory is not browsable on iOS or Android — use claude.ai or Claude Desktop.\<br /\>\<br /\> Make sure your Claude account is signed in.\<br /\>\<br /\> On Team or Enterprise plans, an owner may need to enable connectors for your organization before you can install new ones.
 
 <AccordionItem slots="heading, text"/>
 
-### "Install fails or hangs"
+#### "Install fails or hangs"
 
 * Check your internet connection.
 * Try signing out of Claude and back in, then retry the install.
@@ -101,119 +101,71 @@ Confirm you're on a supported platform. The directory is not browsable on iOS or
 
 <AccordionItem slots="heading, text"/>
 
-### "The Cowork plugin isn't available"
+#### "The Cowork plugin isn't available"
 
 * Plugins require a paid Claude plan (Pro, Max, Team, or Enterprise).
 * Cowork is desktop-only — you need Claude Desktop on macOS or Windows.
 * On organization plans, confirm with your admin that Cowork and Skills are both enabled.
 
-#### Authentication issues
+### Authentication issues
 
 <AccordionItem slots="heading, text"/>
 
-### "I'm signed in to Adobe but tools are limited to guest mode"
+#### "I'm currently in guest mode but I'd like to sign in to my Adobe account for more functionalities"
 
 * Go to Customize → Connectors → Adobe for creativity.
 * Click Disconnect, then Connect again.
 * Complete the Adobe sign-in flow, paying attention to which account you pick if you have multiple.
 * Start a new chat and try again.
 
-<AccordionItem slots="heading, text"/>
-
-### "It's asking me to reauthenticate every session"
-
-This can happen if your Adobe session cookies are blocked. Make sure third-party cookies are allowed for claude.ai and adobe.com, or try a different supported browser.
+### Skills and tools issues
 
 <AccordionItem slots="heading, text"/>
 
-### "It says my Adobe account doesn't have access to a feature"
-
-* Firefly generations, Stock licensing, and some cloud features require a paid Adobe subscription with the right entitlement.
-* For enterprise accounts, your admin controls which Adobe services are enabled.
-
-#### Skills and tools issues
-
-<AccordionItem slots="heading, text"/>
-
-### "The connector says it's installed but I don't see Adobe tools in my chat"
+#### "The connector says it's installed but I don't see Adobe tools in my chat"
 
 * Make sure the connector is enabled for this conversation: click + in the lower-left of the chat, hover over Connectors, and toggle Adobe for creativity on.
-* Confirm Code execution and file creation is enabled in your Claude settings.
 
 <AccordionItem slots="heading, text"/>
 
-### "Claude isn't using the skill I installed"
+#### "Claude isn't using the skill I installed"
 
-* Confirm the skill is toggled on under Customize → Skills.
-* Confirm Code execution and file creation is enabled:
-  * Free, Pro, Max: Settings → Capabilities.
-  * Team, Enterprise: an owner must enable this at the organization level.
+* Confirm the skill is turned on under Customize → Skills.
 * Name the skill explicitly in your prompt: "Use the portrait retouching skill on these photos."
 
 <AccordionItem slots="heading, text"/>
 
-### "Claude is trying to use the wrong tool"
+#### "Claude is trying to use the wrong tool"
 
-Be more specific about outcome and constraints. "Give me a 9:16 version of this video at 1080p with captions" is far more reliable than "resize this for social."
-
-<AccordionItem slots="heading, text"/>
-
-### "A tool I expected isn't available"
-
-Not every Adobe capability is exposed yet. See known limitations. If a specific tool is missing, let us know — [link to feedback form].
-
-#### Output quality issues
+Be more specific about outcome and constraints. For example, "give me a 9:16 version of this video at 1080p with captions" is far more reliable than "resize this for social." Name Adobe for creativity if needed. 
 
 <AccordionItem slots="heading, text"/>
 
-### "The generated result doesn't match what I asked for"
+#### "A tool I expected isn't available"
 
-* Attach reference images or past work showing the style you want.
-* Specify dimensions, file type, color palette, mood, and platform.
-* Iterate: "closer — but make it warmer and remove the text at the bottom."
+Not every Adobe capability is available yet. If a specific tool is missing, let us know on [Discord](http://discord.gg/tppGPapr2e).
 
-<AccordionItem slots="heading, text"/>
-
-### "The output is lower resolution than expected"
-
-* Source resolution matters. Attach the highest-resolution file you have.
-* Explicitly request dimensions: "export at 4000px on the long edge."
-* Some operations produce derived outputs that are lower resolution than the source — check the known limitations.
-
-<AccordionItem slots="heading, text"/>
-
-### "Colors look different from my original"
-
-* Your display's color profile may differ from the profile Claude's output uses. Request a specific color space: "export in sRGB" or "export in Adobe RGB."
-* Use Lightroom color correction tools in the prompt to lock down white balance and tone.
-
-#### File and upload issues
+### File and upload issues
 
 <AccordionItem slots="heading, text"/>
 
 ### "My file is too large to upload"
 
-There are size limits on both Claude and Adobe sides. If you hit one:\<br /\>\<br /\> - Compress the source if appropriate (for example, ship a TIFF as a high-quality JPEG).\<br /\> - In Cowork, reference the file by path instead of uploading it directly.
+There are size limits on both Claude and Adobe sides. If you hit one:\<br /\>\<br /\> - Compress the source if appropriate (for example, ship a TIFF as a high-quality JPEG).
 
 <AccordionItem slots="heading, text"/>
 
 ### "The final file didn't save to my Creative Cloud folder"
 
 * Confirm you're signed in to Adobe.
-* Check your Adobe storage quota — if you're at your storage cap, saves will fail silently.
-* Ask Claude where the file was saved: "Where did that export go?"
+* Check your Adobe storage quota — if you're at your storage cap, we are not able to save your files. 
 
 <AccordionItem slots="heading, text"/>
 
 ### Still stuck?
 
-* Browse community discussions at [link to forum or community].
-* Contact Adobe support: [link] for Adobe account, Firefly credits, Stock licensing, and Creative Cloud storage issues.
-* Contact Claude support: support.claude.com for Claude account, connector installation, and billing issues.
-* Report a bug or request a feature: [link to feedback form]
+* Browse community discussions or connect with us on [Discord](http://discord.gg/tppGPapr2e)
 
 ## Give feedback
 
-If something isn't working or you have an idea, we want to hear it. [Embed feedback form or link.]
-
-Was this page helpful? 👍 👎
+If something isn't working or you have an idea, we want to hear it. [Discord](http://discord.gg/tppGPapr2e)
