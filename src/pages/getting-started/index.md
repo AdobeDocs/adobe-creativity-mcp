@@ -7,6 +7,10 @@ description: Set up Adobe for creativity in Claude chat, Cowork, and review tech
 
 This page covers everything you need to set up and start using Adobe for creativity in Claude — whether you're using Claude chat, Claude Desktop, or Cowork.
 
+<Embed slots="video" />
+
+../assets/Claude Adobe – Setup.mp4
+
 ## What you need to get started
 
 * A Claude account (Free, Pro, Max, Team, or Enterprise). Some features require a paid plan — see [Technical requirements](#technical-requirements) for details.
